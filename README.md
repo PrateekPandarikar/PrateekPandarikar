@@ -3,6 +3,6 @@
 
 
  🔭 I’m currently studying computer science engineering at sdmcet,DWD
- 🌱 I’m currently learning java,html,alp 
- i love u all
+ 🌱 I’m currently learning DSA in java.
+ 
 
